@@ -1,0 +1,5 @@
+# Uncompressed or incompatible files
+*.txt
+*.bin
+
+!*.lz
