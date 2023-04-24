@@ -1,6 +1,6 @@
-![](https://i.imgur.com/bMFEY2r.png)
+![](https://i.imgur.com/oGdgsZO.png)
 
-## Fire Emblem If Fan Translation
+## Fire Emblem If Fan Translation (last updated April 2023)
 ### Team If
 
 This is where you'll find the latest updates to the Fire Emblem If fan translation project. Starting just after the game's Japanese release in 2015, we've managed to translate all three story paths (Hoshido, Nohr, and Invisible Kingdom), all Skinship lines, most of the NPC dialogue, and a good portion of the character support conversations.
